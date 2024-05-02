@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> AZURE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 Here are 10 Azure technical interview questions along with sample answers for someone with 3 years of developer experience:
 
 1. **What is Azure and how does it differ from other cloud providers?**
