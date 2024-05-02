@@ -58,7 +58,7 @@ Here are 10 JavaScript technical interview questions along with sample answers f
 
 These answers should help you prepare for a JavaScript technical interview and demonstrate your expertise with 3 years of developer experience.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> JSON >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
 Here are 10 JSON technical interview questions along with sample answers for someone with 3 years of developer experience:
 
 1. **What is JSON?**
